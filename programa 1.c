@@ -1,5 +1,5 @@
 /*Sofía Paulina López González 
-matricez, practica 10*/
+matrices, practica 10*/
   
 #include <stdio.h>
 
