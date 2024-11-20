@@ -1,4 +1,4 @@
-/*Sofía PAulina López González 
+/*Sofía Paulina López González 
 matrices, practica 10*/
   
 #include <stdio.h>
